@@ -1,0 +1,35 @@
+{
+  "name": "glsl-pcg-prng",
+  "version": "1.0.0",
+  "description": "Glsl implementation of the PCG algorithm for the generation of random numbers.",
+  "main": "index.js",
+  "scripts": {
+    "release": "np"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/riccardoscalco/glsl-pcg-prng.git"
+  },
+  "bugs": {
+    "url": "https://github.com/riccardoscalco/glsl-pcg-prng/issues"
+  },
+  "keywords": [
+    "glsl",
+    "pcg",
+    "prng",
+    "random",
+    "hash",
+    "random number generator",
+    "hash function",
+    "webgl",
+    "glslify",
+    "math"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "np": "^7.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
