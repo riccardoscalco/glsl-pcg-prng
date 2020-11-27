@@ -1,6 +1,6 @@
 {
   "name": "glsl-pcg-prng",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Glsl implementation of the PCG algorithm for the generation of random numbers.",
   "main": "index.js",
   "scripts": {
