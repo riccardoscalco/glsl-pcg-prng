@@ -36,3 +36,8 @@ vec3 r3 = prng(seed.xyz);
 // Return four random numbers
 vec4 r4 = prng(seed.xyzw);
 ```
+
+## Demo
+
+* https://github.com/riccardoscalco/glsl-pcg-example
+* https://observablehq.com/@riccardoscalco/pcg-random-number-generators-in-glsl.
