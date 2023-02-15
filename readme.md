@@ -24,7 +24,7 @@ Note that **glsl-pcg-prng** needs OpenGL ES 3.0 (WebGL 2.0).
 #pragma glslify: prng = require(glsl-pcg-prng)
 
 // Create a seed
-vec4 seed = vec3(1000., 2000., 3000., 4000.);
+vec4 seed = vec4(1000., 2000., 3000., 4000.);
 
 // Return one random number, it takes a float or a vec2 as input
 float r1 = prng(seed.x);
